@@ -1,5 +1,12 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Demo images
+![Splash Screen]('./demo images/Screenshot_2023-11-02-17-18-35-692_com.voiceassistant.jpg')
+![Home Screen]('./demo images/Screenshot_2023-11-02-17-18-38-904_com.voiceassistant.jpg')
+![Search Screen]('./demo images/Screenshot_2023-11-02-17-18-46-954_com.voiceassistant.jpg')
+![Movie Information Screen]('./demo images/Screenshot_2023-11-02-17-18-52-281_com.voiceassistant.jpg')
+![Actor Information Screen]('./demo images/Screenshot_2023-11-02-17-18-55-047_com.voiceassistant.jpg')
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
