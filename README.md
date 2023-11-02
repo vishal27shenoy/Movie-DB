@@ -1,14 +1,13 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Demo images  
-![Splash screen]("./../demo-images/Screenshot_2023-11-02-17-18-35-692_com.voiceassistant.jpg")
-
-
-![Home Screen]('./../demo-images/home.jpg)  
-![Search Screen]('./../demo-images/searchinfo.jpg)
-
-![Movie Information Screen]('./../demo-images/movieinfo.jpg)
-![Actor Information Screen]('./../demo-images/actorinfo.jpg)
+<div style="display:flex;gap:1rem">
+<img src="./demo-images/splashscreen.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;">
+<img src="./demo-images/home.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;">
+<img src="./demo-images/movieinfo.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;">
+<img src="./demo-images/actorinfo.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;">
+<img src="./demo-images/searchinfo.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;"><img src="./demo-images/splashscreen.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;">
+</div>
 
 # Getting Started
 
