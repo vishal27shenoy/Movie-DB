@@ -1,12 +1,13 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Demo images  
-<div style="display:flex;gap:1rem">
+<div style="display:flex;gap:3rem">
 <img src="./demo-images/splashscreen.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;">
 <img src="./demo-images/home.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;">
 <img src="./demo-images/movieinfo.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;">
 <img src="./demo-images/actorinfo.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;">
-<img src="./demo-images/searchinfo.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;"><img src="./demo-images/splashscreen.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;">
+<img src="./demo-images/searchinfo.jpg" alt="Alt Text" style="width: 200px; height: auto; border: 1px solid #333; border-radius: 10px;">
+
 </div>
 
 # Getting Started
